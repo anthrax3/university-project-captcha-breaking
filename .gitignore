@@ -1,0 +1,6 @@
+/samples/
+desktop.ini
+*.pyc
+/rotatedWithMaxConfidence/
+/rotatedWithMaxEntropy/
+/rectification/results/
